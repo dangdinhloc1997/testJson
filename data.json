@@ -1,0 +1,40 @@
+{
+    "musicList": [
+        {
+            "name": "À lôi",
+            "singer": "Doule2T x Masew",
+            "audioUrl": "./music/a loi.mp3",
+            "songImg": "./pic/a loi.jpg"
+        },
+        {
+            "name": "Là anh",
+            "singer": "Phạm Lịch",
+            "audioUrl": "./music/la anh.mp3",
+            "songImg": "./pic/la anh.jpg"
+        },
+        {
+            "name": "Theo em về nhà",
+            "singer": "Ngọc Mai",
+            "audioUrl": "./music/theo em ve nha.mp3",
+            "songImg": "./pic/theo em ve nha.jpg"
+        },
+        {
+            "name": "Thế thái",
+            "singer": "Hương Ly",
+            "audioUrl": "./music/the thai.mp3",
+            "songImg": "./pic/the thai.jpg"
+        },
+        {
+            "name": "Vì em tất cả",
+            "singer": "Mỹ Tâm",
+            "audioUrl": "./music/vi em tat ca.mp3",
+            "songImg": "./pic/vi em tat ca.jpg"
+        },
+        {
+            "name": "Thanh Xuân",
+            "singer": "Da Lab",
+            "audioUrl": "./music/thanh xuan.mp3",
+            "songImg": "./pic/thanh xuan.jpg"
+        }  
+    ]
+}
